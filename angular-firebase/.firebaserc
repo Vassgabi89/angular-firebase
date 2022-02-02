@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-3455a": {
+      "hosting": {
+        "angular-firebase": [
+          "angular-firebase-3455a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-3455a"
+  }
+}
